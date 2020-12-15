@@ -21,7 +21,7 @@ e.g. python3.8
 conda create -n py38 python=3.8 anaconda environment
 ```
 
-### install depended packages into 
+### install depended packages into anaconda environment
 
 e.g.
 ```
