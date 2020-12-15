@@ -14,7 +14,7 @@ echo 'source ~/.pyenv/versions/anaconda3-5.3.1/etc/profile.d/conda.sh' >> ~/.zsh
 source ~/.zshrc
 ```
 
-### create anaconda environment
+## create anaconda environment
 
 e.g. python3.8
 ```
@@ -36,12 +36,12 @@ confirm
 conda list -n py38
 ```
 
-### boot anaconda environment
+## boot anaconda environment
 ```
 conda activate py38
 ```
 
-### down anaconda environment
+## down anaconda environment
 ```
 conda deactivate
 ```
