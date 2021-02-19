@@ -29,6 +29,7 @@ conda install boto3
 conda install pyyaml
 conda install pandas
 conda install termcolor
+conda install mypy
 conda install -c conda-forge python-dotenv
 ```
 confirm
